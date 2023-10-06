@@ -20,11 +20,11 @@ The connections are as follows.
 
 Download and install [Thonny IDE](https://thonny.org/) and follow the [instructions](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0) to download micro python to the raspberry pi.
 
-Clone this repo with the recursive flag 'git clone --recursive https://github.com/Ineltek-IT/IoThings-Raspberry-Demo.git'
+Clone this repo with the recursive flag `git clone --recursive https://github.com/Ineltek-IT/IoThings-Raspberry-Demo.git`
 
 Download in the Raspberry Pi Pico the files you find in this repo, namely `main.py`, `NSPGS2.py` and the `TM1637` library located in `libs/MIcropython/libs/tm1637.py`. 
 
-## Acknoledgement
+## Acknowledgement
 
 Thanks to Benjamin Janzen for providing the modified library for the `NSPGS2` and to shedboy71 for the `TM1637` library. 
 
